@@ -1,5 +1,5 @@
 package test;
 
 public class f {
-得到
+System.out.println(2);
 }
